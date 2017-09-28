@@ -3,5 +3,8 @@
 
 #include <SFML/Network.hpp>
 
+int server();
+
+int client();
 
 #endif
