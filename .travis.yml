@@ -1,8 +1,7 @@
 sudo : enable
 language : C
 script : 
-        - sudo apt install
-        - libsfml-dev
+        - sudo apt install libsfml-dev
         - mkdir build
         - cd build
         - cmake .. 
