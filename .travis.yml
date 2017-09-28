@@ -6,3 +6,5 @@ script :
         - cd build
         - cmake .. 
         - make
+        - ./networkTest -s &
+        - ./networkTest -c
