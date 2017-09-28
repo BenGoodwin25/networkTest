@@ -1,2 +1,2 @@
 language : C
-script : mkdir build && cd build && cmake .. && make
+script : apt install sfml && mkdir build && cd build && cmake .. && make

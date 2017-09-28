@@ -1,5 +1,7 @@
 client
 server
+build
+.idea
 
 # Prerequisites
 *.d
