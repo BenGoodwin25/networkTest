@@ -1,7 +1,7 @@
 sudo : enable
 language : C
 script : 
-        - apt install sfml 
+        - sudo apt install sfml 
         - mkdir build
         - cd build
         - cmake .. 
